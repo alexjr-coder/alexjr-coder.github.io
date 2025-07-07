@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre mim</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Sobre mim</h1>
+    <img src="WhatsApp Image 2025-06-02 at 18.33.00 (1).jpeg" alt="alex">
+    <p>Sou um jovem de 19 anos apaixonado por tecnologia. Atualmente, estou cursando o 1º semestre de Engenharia de Software na Uniateneu e estou muito feliz por ter escolhido esse curso, que é cheio de tecnologia e inovação.
+    No momento, estou estudando HTML5 e CSS3 através do Curso em Vídeo, que é uma referência quando se trata de ensino gratuito e de qualidade. Pretendo continuar meus estudos aprendendo a linguagem de programação JavaScript, essencial para o desenvolvimento web.</p>
+    <h2>Minhas redes</h2>
+      <ul>
+        <li><a href="https://www.linkedin.com/in/alex-amorim-46211a2a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">linkedin</a></li>
+         <li><a href="https://www.instagram.com/allexxjr_?igsh=eGIzYzZuY2kzYWU0" target="_blank">instagram</a></li>
+         <li><a href="https://github.com/alexjr-coder" target="_blank">Github</a></li>   
+      </ul>
+</body>
+</html>
